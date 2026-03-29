@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="MazeOOP.MazeSolver">
+    <Position X="8" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAhEABCAAAAAAAAAAAEAEggAAAACAAAAAAAIAAAA=</HashCode>
+      <FileName>MazeSolver.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MazeOOP.MazeGenerator">
+    <Position X="3.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAhFABAAAAIAAAAgAAEAAAAAAAACAAAAAAIIACAA=</HashCode>
+      <FileName>MazeGenerator.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MazeOOP.Maze">
+    <Position X="0.5" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAyAAACAAgAAAAAAACAAAAgAAAEAAAAAQAAA=</HashCode>
+      <FileName>Maze.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MazeOOP.Grid">
+    <Position X="0.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAAEAABAIAAAAIAAIAAEAAAAAAQAAAAAAEAAEAAAA=</HashCode>
+      <FileName>Grid.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MazeOOP.Square">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <Members>
+      <Field Name="IsSolvePath2" Hidden="true" />
+      <Field Name="IsSolvePath3" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQBAAAAAAAAAAEAAAgAAAgABAAAIAgAAAAAA=</HashCode>
+      <FileName>Square.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MazeOOP.AldousBroder">
+    <Position X="2.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>AldousBroder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MazeOOP.aStar">
+    <Position X="9" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAEAAEAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>aStar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MazeOOP.BreadthFirstSearch">
+    <Position X="7" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BreadthFirstSearch.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MazeOOP.DeadEndFilling">
+    <Position X="7" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DeadEndFilling.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MazeOOP.DepthFirstSearch">
+    <Position X="9" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAFAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DepthFirstSearch.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MazeOOP.Dijkstra">
+    <Position X="7" Y="9.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Dijkstra.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MazeOOP.Ellers">
+    <Position X="4.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAQIAEAAAAAAAABKAAAAAAoAAAAACQA=</HashCode>
+      <FileName>Ellers.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MazeOOP.Prims">
+    <Position X="4.75" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>Prims.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MazeOOP.RecursiveBacktracking">
+    <Position X="2.75" Y="9.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAA=</HashCode>
+      <FileName>RecursiveBacktracking.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MazeOOP.WallFollower">
+    <Position X="9" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAIACAAAAAAAAAAAEAAAAAEAAgAAAAAAAAAA=</HashCode>
+      <FileName>WallFollower.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
