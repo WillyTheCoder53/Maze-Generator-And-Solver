@@ -28,4 +28,7 @@ Solving algorithms:
 - A*
 
 
-UML diagram
+UML diagram:
+
+<img width="967" height="1072" alt="image" src="https://github.com/user-attachments/assets/f98c783b-7de9-4c7d-a68d-9f8e4ea0c2e9" />
+
