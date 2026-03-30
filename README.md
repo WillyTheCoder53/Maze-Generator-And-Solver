@@ -36,8 +36,10 @@ Solving algorithms:
 
 <img width="2054" height="1243" alt="image" src="https://github.com/user-attachments/assets/5c479106-7da4-47a4-9a80-8e68da65e479" />
 
+It took 0.064 seconds to generate the maze
+
 ### The same maze solved using Depth-First search:
 
 <img width="2036" height="1248" alt="image" src="https://github.com/user-attachments/assets/50e07fea-b02d-46e8-b4b8-c475830dd08e" />
 
-
+It took 0.033 seconds to solve the maze
