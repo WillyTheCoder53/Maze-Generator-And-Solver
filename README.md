@@ -32,3 +32,6 @@ UML diagram:
 
 <img width="967" height="1072" alt="image" src="https://github.com/user-attachments/assets/f98c783b-7de9-4c7d-a68d-9f8e4ea0c2e9" />
 
+<img width="2054" height="1243" alt="image" src="https://github.com/user-attachments/assets/5c479106-7da4-47a4-9a80-8e68da65e479" />
+
+
