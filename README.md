@@ -1,6 +1,6 @@
 ## Introduction
 
-OOP project amount of lines
+OOP project amount of lines. Console only
 
 Solving algorithms:
 - Dead-end filling
