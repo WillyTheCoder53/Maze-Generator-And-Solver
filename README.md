@@ -1,6 +1,6 @@
 ## Introduction
 
-A 1700-line OOP coding project for my A-level computer science NEA. The maze, grid, generators and solvers were represented as objects. 
+A 1700-line OOP console-only coding project for my A-level computer science NEA. The maze, grid, generators and solvers were represented as objects. 
 
 Features include:
 - Choosing the size of the maze
