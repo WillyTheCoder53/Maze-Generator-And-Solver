@@ -1,10 +1,11 @@
 ## Introduction
 
-OOP project amount of lines. Console only
+OOP project: number of lines. Console only
 
 Features include:
 - Choosing the size of the maze
 - Optional maze generation and solving animations
+- Displaying the optimal path
 - Choosing the animation speed
 - Time taken to generate the maze
 - Time taken to solve the maze
