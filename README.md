@@ -2,7 +2,7 @@
 
 A 1700-line OOP console-only coding project for my A-level computer science NEA. The maze, grid, generators and solvers were represented as objects. 
 
-The goal was to create a super-efficient maze generator and solver, allowing the user to compare a variety of algorithms. Additionally, animations were included to help users understand how the algorithms behave.
+The goal was to create a highly efficient, console-only maze generator and solver with a range of algorithms for my client. Additionally, animations were included to help users understand how the algorithms behave.
 
 Features include:
 - Choosing the size of the maze
